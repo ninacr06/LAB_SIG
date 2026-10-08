@@ -1,0 +1,29 @@
+<layouts>
+
+ <layout name="root">
+  <row>
+   <button type="voicerec" label="Voz" />
+   <button type="picture" label="Foto" />
+   <button type="textnote" label="Nota" />
+  </row>
+  <row>
+   <button type="tag" label="BANCA" icon="banca.png" />
+   <button type="tag" label="BASURERO" icon="basurero.png" />
+   <button type="tag" label="POSTE DE LUZ" icon="poste_luz.png" />
+  </row>
+  <row>
+   <button type="tag" label="ÁRBOL" icon="arbol.png" />
+   <button type="tag" label="CÁMARA" icon="camara.png" />
+   <button type="tag" label="HILERA ÁRBOLES" icon="hilera_arboles.png" />
+  </row>
+  <row>
+   <button type="tag" label="SENDERO" icon="sendero.png" />
+   <button type="tag" label="CANCHA" icon="cancha.png" />
+   <button type="tag" label="SKATE PARK" icon="skate.png" />
+  </row>
+  <row>
+   <button type="tag" label="PARQUE INFANTIL" icon="infantil.png" />
+  </row>
+ </layout>
+
+</layouts>
