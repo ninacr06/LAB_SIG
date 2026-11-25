@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:53:39Z",
+        "author": "A",
+        "photo": "2026-10-01_10-53-37.jpg",
+        "audio": null,
+        "note": "Punto central",
+        "source_file": "Arbol (Punto central del parque)_2026-10-01_10-53-22.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22064464,
+          10.01535386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:05:53Z",
+        "author": "A",
+        "photo": "2026-10-01_10-05-06.jpg",
+        "audio": null,
+        "note": "Árbol como punto  (parque de baloncesto)",
+        "source_file": "Arbol 1_2026-10-01_10-05-00.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22115842,
+          10.01548012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:22:39Z",
+        "author": "A",
+        "photo": "2026-10-01_10-22-34.jpg",
+        "audio": null,
+        "note": "Arbol_2 fuera del parque",
+        "source_file": "Arbol__2_2026-10-01_10-22-21.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22091479,
+          10.01515193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T15:56:21Z",
+        "author": "A",
+        "photo": "2026-10-01_09-56-16.jpg",
+        "audio": null,
+        "note": "Banca(punto de parque de baloncesto)",
+        "source_file": "Banca (parque de baloncesto)_2026-10-01_09-56-05.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22114038,
+          10.01535688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "banca",
+        "osm_tag": "amenity=bench",
+        "timestamp": "2026-10-01T15:56:50Z",
+        "author": "A",
+        "photo": "2026-10-01_09-56-16.jpg",
+        "audio": null,
+        "note": null,
+        "source_file": "Banca (parque de baloncesto)_2026-10-01_09-56-05.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22115744,
+          10.01534153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "banca",
+        "osm_tag": "amenity=bench",
+        "timestamp": "2026-10-01T16:44:55Z",
+        "author": "A",
+        "photo": "2026-10-01_10-44-37.jpg",
+        "audio": null,
+        "note": null,
+        "source_file": "Banca de mediano tamaño_2026-10-01_10-44-29.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22074739,
+          10.01522967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:44:59Z",
+        "author": "A",
+        "photo": "2026-10-01_10-44-37.jpg",
+        "audio": null,
+        "note": "Banca-3 como línea fuera del parque (mediano tamaño)",
+        "source_file": "Banca de mediano tamaño_2026-10-01_10-44-29.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22074724,
+          10.01522964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T15:57:43Z",
+        "author": "A",
+        "photo": "2026-10-01_09-57-37.jpg",
+        "audio": null,
+        "note": "Banca (parque baloncesto)",
+        "source_file": "Banco parque baloncesto_2026-10-01_09-57-23.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2211421,
+          10.01545553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "banca",
+        "osm_tag": "amenity=bench",
+        "timestamp": "2026-10-01T15:58:10Z",
+        "author": "A",
+        "photo": "2026-10-01_09-57-37.jpg",
+        "audio": null,
+        "note": null,
+        "source_file": "Banco parque baloncesto_2026-10-01_09-57-23.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22113141,
+          10.01544083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T15:54:26Z",
+        "author": "A",
+        "photo": "2026-10-01_09-54-24.jpg",
+        "audio": null,
+        "note": "Punto:(basurero)",
+        "source_file": "Basurero(traza de parque baloncesto)_2026-10-01_09-54-10.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22118381,
+          10.0154166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:07:45Z",
+        "author": "A",
+        "photo": "2026-10-01_10-07-43.jpg",
+        "audio": null,
+        "note": "Cámara en parque de baloncesto",
+        "source_file": "Camara1_2026-10-01_10-07-33.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2211068,
+          10.01529275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:15:01Z",
+        "author": "A",
+        "photo": "2026-10-01_10-14-04.jpg",
+        "audio": null,
+        "note": "Monumento",
+        "source_file": "Estatua (Hombre Acostado)_2026-10-01_10-13-46.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22110789,
+          10.01510304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:15:06Z",
+        "author": "A",
+        "photo": "2026-10-01_10-14-04.jpg",
+        "audio": null,
+        "note": "Hombre Acostado (punto fuera del parque)",
+        "source_file": "Estatua (Hombre Acostado)_2026-10-01_10-13-46.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22110779,
+          10.01510318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T15:59:48Z",
+        "author": "A",
+        "photo": "2026-10-01_09-59-46.jpg",
+        "audio": null,
+        "note": "Línea (parque baloncesto)",
+        "source_file": "Linea (banca extensa parque de baloncesto)_2026-10-01_09-59-35.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22100338,
+          10.01547502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "banca",
+        "osm_tag": "amenity=bench",
+        "timestamp": "2026-10-01T16:01:39Z",
+        "author": "A",
+        "photo": "2026-10-01_09-59-46.jpg",
+        "audio": null,
+        "note": null,
+        "source_file": "Linea (banca extensa parque de baloncesto)_2026-10-01_09-59-35.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22102729,
+          10.01556652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T15:53:07Z",
+        "author": "A",
+        "photo": "2026-10-01_09-53-01.jpg",
+        "audio": null,
+        "note": "Traza Parque Baloncesto",
+        "source_file": "Parque Baloncesto_2026-10-01_09-52-41.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22115174,
+          10.0154069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:38:03Z",
+        "author": "A",
+        "photo": "2026-10-01_10-37-34.jpg",
+        "audio": null,
+        "note": "Deporte",
+        "source_file": "Parque de futbol_2026-10-01_10-37-24.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22090979,
+          10.01547546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:38:10Z",
+        "author": "A",
+        "photo": "2026-10-01_10-37-34.jpg",
+        "audio": null,
+        "note": "Área de recreación",
+        "source_file": "Parque de futbol_2026-10-01_10-37-24.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22090993,
+          10.01547655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "parque_infantil",
+        "osm_tag": "leisure=playground",
+        "timestamp": "2026-10-01T16:31:11Z",
+        "author": "A",
+        "photo": "2026-10-01_10-30-57.jpg",
+        "audio": null,
+        "note": null,
+        "source_file": "Parque de ninos y maquinas_2026-10-01_10-30-49.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22084674,
+          10.01529737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:35:22Z",
+        "author": "A",
+        "photo": "2026-10-01_10-35-20.jpg",
+        "audio": null,
+        "note": "Parque de niños y de máquinas (Polígono)",
+        "source_file": "(Poligono)  Parque de ninos y de maquinas_2026-10-01_10-33-59.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22089527,
+          10.0152466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "parque_infantil",
+        "osm_tag": "leisure=playground",
+        "timestamp": "2026-10-01T16:35:47Z",
+        "author": "A",
+        "photo": "2026-10-01_10-35-20.jpg",
+        "audio": null,
+        "note": null,
+        "source_file": "(Poligono)  Parque de ninos y de maquinas_2026-10-01_10-33-59.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2208888,
+          10.01525815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "nota",
+        "osm_tag": null,
+        "timestamp": "2026-10-01T16:11:56Z",
+        "author": "A",
+        "photo": "2026-10-01_10-10-41.jpg",
+        "audio": null,
+        "note": "SkatePark como polígono",
+        "source_file": "SkatePark_2026-10-01_10-10-30.gpx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.22108074,
+          10.01528351
+        ]
+      }
+    }
+  ]
+}
