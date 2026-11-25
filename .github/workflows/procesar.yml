@@ -1,0 +1,44 @@
+name: Procesar GPX a GeoJSON
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/raw/**"
+      - "scripts/procesar_gpx.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  procesar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generar GeoJSON y copiar media
+        run: |
+          python3 scripts/procesar_gpx.py \
+            --raw data/raw \
+            --out-data data/parque.geojson \
+            --out-docs docs/parque.geojson \
+            --media docs/media
+
+      - name: Commitear resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/parque.geojson docs/parque.geojson docs/media
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el GeoJSON/media, no se crea commit."
+          else
+            git commit -m "Actualizar parque.geojson desde data/raw [skip ci]"
+            git push
+          fi
